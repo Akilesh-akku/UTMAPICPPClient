@@ -1,0 +1,26 @@
+{
+ "flightId":"xxxxx",
+ "flyData":[
+{"latitude" : 13.30758,"longitude" : 77.91985},
+{"latitude" : 13.29535,"longitude" : 77.90295},
+{"latitude" : 13.28522,"longitude" : 77.88627},
+{"latitude" : 13.27081,"longitude" : 77.86419},
+{"latitude" : 13.25691,"longitude" : 77.84354},
+{"latitude" : 13.24596,"longitude" : 77.82635},
+{"latitude" : 13.23379,"longitude" : 77.81089},
+{"latitude" : 13.20559,"longitude" : 77.77071},
+{"latitude" : 13.15946,"longitude" : 77.75684},
+{"latitude" : 13.14341,"longitude" : 77.76501},
+{"latitude" : 13.11131,"longitude" : 77.77867},
+{"latitude" : 13.12121,"longitude" : 77.80092},
+{"latitude" : 13.13284,"longitude" : 77.82303},
+{"latitude" : 13.14668,"longitude" : 77.8437},
+{"latitude" : 13.17122,"longitude" : 77.89458},
+{"latitude" : 13.19368,"longitude" : 77.90831},
+{"latitude" : 13.21427,"longitude" : 77.92754},
+{"latitude" : 13.22992,"longitude" : 77.94539},
+{"latitude" : 13.26694,"longitude" : 77.96873},
+{"latitude" : 13.27791,"longitude" : 77.95528},
+{"latitude" : 13.30758,"longitude" : 77.91985}
+ ]
+}
